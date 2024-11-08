@@ -12,6 +12,7 @@ const config: Config = {
 		  colors: {
 			blue: {
 				  "1": "#1C1F2E",
+				"2": "#161925"
 			},
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',

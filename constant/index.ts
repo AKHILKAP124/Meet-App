@@ -2,28 +2,28 @@
 
 export const Navlinks = [
     {
-        title: "Home",
-        link : "/",
+        label : "Home",
+        route : "/",
         logo : "/icons/Home.svg"
     },
     {
-        title: "Upcoming",
-        link : "/upcoming",
+        label : "Upcoming",
+        route : "/upcoming",
         logo : "/icons/upcoming.svg"
     },
     {
-        title: "Previous",
-        link : "/previous",
+        label : "Previous",
+        route : "/previous",
         logo : "/icons/previous.svg"
     },
     {
-        title: "Recordings",
-        link : "/recordings",
+        label : "Recordings",
+        route : "/recordings",
         logo : "/icons/recordings.svg"
     },
     {
-        title: "Personal Room",
-        link : "/personal-room",
-        logo : "/icons/join-meeting.svg"
+        label : "Personal Room",
+        route : "/personal-room",
+        logo : "/icons/add-personal.svg"
     },
 ]
